@@ -26,7 +26,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Display the StreamSign title
-# Display the StreamSign title
 st.markdown('<div class="header"><h1 class="title">StreamSign</h1></div>', unsafe_allow_html=True)
 
 # Upload an image
