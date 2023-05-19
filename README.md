@@ -4,7 +4,7 @@
 [![Uses ONNX Runtime](https://img.shields.io/badge/Uses-ONNX%20Runtime-blue)](https://onnxruntime.ai/)
 [![Uses Matplotlib](https://img.shields.io/badge/Uses-Matplotlib-orange)](https://matplotlib.org/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue)](https://your-docker-hub-repo-url)
-[![Deployment](https://img.shields.io/badge/Deployment-Streamlit-blueviolet)](https://hamdi3-streamsign-app-d2ga7g.streamlit.app/)
+[![Deployment](https://img.shields.io/badge/Deployment-Streamlit-blueviolet)](https://streamsign.streamlit.app/)
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://your-url)
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
@@ -35,7 +35,7 @@ To run StreamSign using Docker, follow these steps:
 
 ## Deployment
 The StreamSign application is deployed and accessible through the following link:
-[https://hamdi3-streamsign-app-d2ga7g.streamlit.app/](https://hamdi3-streamsign-app-d2ga7g.streamlit.app/)
+[https://streamsign.streamlit.app/](https://streamsign.streamlit.app/)
 
 You can visit the above link to access the live version of the application and try it out with your own sign language images.
 
