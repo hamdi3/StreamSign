@@ -1,12 +1,12 @@
 # StreamSign
-[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://your-url)
-[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+[![Powered by Streamlit](https://img.shields.io/badge/Powered%20by-Streamlit-ff69b4)](https://www.streamlit.io/)
 [![Built with PyTorch](https://img.shields.io/badge/Built%20with-PyTorch-orange)](https://pytorch.org/)
 [![Uses ONNX Runtime](https://img.shields.io/badge/Uses-ONNX%20Runtime-blue)](https://onnxruntime.ai/)
 [![Uses Matplotlib](https://img.shields.io/badge/Uses-Matplotlib-orange)](https://matplotlib.org/)
-[![Powered by Streamlit](https://img.shields.io/badge/Powered%20by-Streamlit-ff69b4)](https://www.streamlit.io/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue)](https://your-docker-hub-repo-url)
-
+[![Deployment](https://img.shields.io/badge/Deployment-Streamlit-blueviolet)](https://hamdi3-streamsign-app-d2ga7g.streamlit.app/)
+[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](https://your-url)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
 StreamSign is a web application built using the Streamlit framework for the classification of sign language alphabet. This project serves as my first interaction with Streamlit, where I explore the capabilities of the framework and demonstrate image classification of sign language letters.
 
@@ -32,6 +32,13 @@ To run StreamSign using Docker, follow these steps:
 3. Build the image using the following command: `docker build -t streamsign .` 
 4. Run the Docker container using the built image: `docker run -p 8501:8501 streamsign` 
 5. Open your web browser and navigate to `http://localhost:8501` to access the StreamSign interface.
+
+## Deployment
+The StreamSign application is deployed and accessible through the following link:
+[https://hamdi3-streamsign-app-d2ga7g.streamlit.app/](https://hamdi3-streamsign-app-d2ga7g.streamlit.app/)
+
+You can visit the above link to access the live version of the application and try it out with your own sign language images.
+
 
 ## Contributing
 Contributions to StreamSign are welcome! If you would like to contribute, please follow these guidelines:
