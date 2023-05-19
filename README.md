@@ -20,7 +20,7 @@ The main purpose of this project is to showcase my proficiency in utilizing the 
 
 ## Getting Started
 To get started with StreamSign, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/StreamSign.git`
+1. Clone the repository: `https://github.com/hamdi3/StreamSign.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the application: `streamlit run app.py`
 4. Open your web browser and navigate to `http://localhost:8501` to access the StreamSign interface.
